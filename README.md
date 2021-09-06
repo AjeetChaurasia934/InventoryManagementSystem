@@ -1,0 +1,2 @@
+# InventoryManagementSystem
+ETG Internship project
